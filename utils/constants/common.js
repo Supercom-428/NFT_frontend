@@ -1,7 +1,7 @@
 
-const TITLE = 'Leda - Jupiter NFT Market';
+const TITLE = 'Ocean Blue - Oshen NFT Market';
 const SITE_URL = 'https://jupiter-frontend.vercel.app/';
-const DESCRIPTION = 'Join and Check New NFT of Leda';
+const DESCRIPTION = 'Join and Check New NFT of Ocean Blue';
 const PLACE_FILLER_URL = 'https://gojupiter.tech/placefiller';
 const UNISWAP_URL = 'https://app.uniswap.org/#/swap'
 const PANCAKESWAP_URL = 'https://pancakeswap.finance/'

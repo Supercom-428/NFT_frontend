@@ -1,5 +1,5 @@
-const SUPPORT_EMAIL = 'info@gojupiter.tech';
-const SITE_URL = 'https://leda.gojupiter.tech';
+const SUPPORT_EMAIL = 'info@GoOshen.tech';
+const SITE_URL = 'https://oceanblue.oshen.tech';
 
 export {
   SUPPORT_EMAIL,

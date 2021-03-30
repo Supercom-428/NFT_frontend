@@ -1,6 +1,6 @@
 {
-  "name": "Leda",
-  "version": "0.1.0",
+  "name": "ocean_blue",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "dev": "next dev",

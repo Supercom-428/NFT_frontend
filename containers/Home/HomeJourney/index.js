@@ -28,7 +28,7 @@ const useStyles = makeStyles(theme => ({
     padding: theme.spacing(3),
   },
   title: {
-    fontSize: 40,
+    fontSize: 30,
     fontWeight: 'bold',
     textAlign: 'center',
     marginBottom: theme.spacing(3),
@@ -51,7 +51,7 @@ const HomeJourney = () => {
           variant='h1'
           className={classes.title}
         >
-          Begin your NFT journey with Leda
+          Begin your NFT journey with Ocean Blue
         </Typography>
         {
           !accountRS &&

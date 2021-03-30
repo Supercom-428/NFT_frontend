@@ -1,7 +1,7 @@
 
 const MESSAGES = Object.freeze({
-  SIGN_IN_SUCCESS: 'Welcome to Leda. You’ve successfully logged in.',
-  SIGN_UP_SUCCESS: 'Welcome to Leda. You have registered successfully. To be able to buy or create NFTs you will have to fund your JUP address.',
+  SIGN_IN_SUCCESS: 'Welcome to Ocean Blue. You’ve successfully logged in.',
+  SIGN_UP_SUCCESS: 'Welcome to Ocean Blue. You have registered successfully. To be able to buy or create NFTs you will have to fund your JUP address.',
   AUTH_ERROR: 'Please input correct Info. or Contact to Administrator.',
   AUTH_REQUIRED: 'Please log in first.',
   TERMS_PRIVACY_CHECK: 'Please check Terms of Service and Privacy Policy',

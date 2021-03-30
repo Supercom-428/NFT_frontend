@@ -93,6 +93,8 @@ const CreateForm = () => {
   }, [reset, setFileBuffer, setTag1, setTag2])
 
   const onSubmit = useCallback(async (data) => {
+
+    console.log("submit!!!!!!!!!!!!!!!!!");
     if (isEmpty(currentUser)) {
       setPopUp({ text: MESSAGES.AUTH_REQUIRED })
       router.push(LINKS.SIGN_IN.HREF)

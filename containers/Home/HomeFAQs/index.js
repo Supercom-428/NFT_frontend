@@ -131,7 +131,7 @@ const FAQs = [
     description: `NFT stands for non-fungible tokens and are unique digital items such as 
     NFTs or artworks or game (hmm should this be in-game?) items. As an artist, by 
     tokenizing your work you both ensure that it is unique and brand it as your work. 
-    The actual ownership is blockchain-managed. Leda uses the Jupiter blockchain, where 
+    The actual ownership is blockchain-managed. Ocean Blue uses the Oshen blockchain, where 
     NFT’s are called Singleton Asset Tokens.`,
   },
   {

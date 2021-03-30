@@ -78,7 +78,7 @@ const AuthWrapper = ({
           color='primary'
           className={classes.welcome}
         >
-          Welcome to Leda!
+          Welcome to Ocean Blue!
         </Typography>
         {children}
       </Paper>

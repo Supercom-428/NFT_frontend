@@ -105,7 +105,7 @@ const HomeHeader = () => {
             variant='h1'
             className={classes.title}
           >
-            Leda is the official marketplace for Jupiter NFTs
+            Ocean Blue is the official marketplace for Oshen NFTs
           </Typography>
           <Typography
             variant='h5'

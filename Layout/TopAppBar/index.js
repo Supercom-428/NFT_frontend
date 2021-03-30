@@ -49,7 +49,7 @@ const TopAppBar = () => {
             variant='h1'
             className={classes.title}
           >
-            Leda
+            Ocean Blue
           </Typography>
         </div>
         <div className={classes.container}>
